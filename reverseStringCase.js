@@ -28,9 +28,9 @@ function reverseStringCases(text) {
 }
 
 reverseStringCase(
-  "L'âme nE se dÉvelopPe pAs sAnS ChAngEmenT, eT leS DoUtes Sont EsSentIels à la crOisSanCe."
+  "CoDe cAnNoT evOlVe iF iT RemAinS stAtiC, eSpEciAllY wHeN pRide aNd sElf-dEfEnSe taKe PrIorIty."
 );
 
 reverseStringCases(
-  "L'âme nE se dÉvelopPe pAs sAnS ChAngEmenT, eT leS DoUtes Sont EsSentIels à la crOisSanCe."
+  "CoDe cAnNoT evOlVe iF iT RemAinS stAtiC, eSpEciAllY wHeN pRide aNd sElf-dEfEnSe taKe PrIorIty."
 );
