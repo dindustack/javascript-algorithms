@@ -13,6 +13,8 @@ function reverseStringCase(text) {
   return reversedString.join("");
 }
 
+// Another solution for reversing string cases
+
 function reverseStringCases(text) {
   const reversedString = text
     .split("")
